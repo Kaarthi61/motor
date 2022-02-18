@@ -39,7 +39,10 @@ public class DcMotor {
 		System.out.println("Varies");
 
 	}
-	
+	public void Amp1() {
+		System.out.println("Varies");
+
+	}
 	
 
 }
